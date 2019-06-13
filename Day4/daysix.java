@@ -14,6 +14,11 @@ public class daysix {
 		System.out.println(offerCount);
 		offerCount = offerCount%5;
 		System.out.println(offerCount);
+		System.out.println("Jijigul");
+		System.out.println("Jijigul");
+		System.out.println("Jijigul");
+		System.out.println("Jijigul");
+		System.out.println("Jijigul");
 	
 				
 	}
