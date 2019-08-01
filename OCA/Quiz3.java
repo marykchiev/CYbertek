@@ -60,20 +60,23 @@ public class Quiz3 {
 		//Integer var = 7;
 		//Character var = '7';
 		//Character var = 7;
-		char var = 7;
-		switch(var) {
+//		char var = 7;
+//		switch(var) {
+//
+//        case 7:
+//
+//            System.out.println("Lucky no. 7");
+//
+//            break;
+//
+//        default:
+//
+//            System.out.println("DEFAULT");
+		 Boolean [] arr = new Boolean[2];
 
-        case 7:
+         System.out.println(arr[0] + ":" + arr[1]);
 
-            System.out.println("Lucky no. 7");
-
-            break;
-
-        default:
-
-            System.out.println("DEFAULT");
-
-    }
+    
 
 	}
 }

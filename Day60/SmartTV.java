@@ -14,9 +14,21 @@ public void play() {
 	}
 
 public static void main(String[] args) {
-	TV tv1= new SmartTV();
-	System.out.println(tv1.channelCount);
-	tv1.play();
-	System.out.println(tv1.getChannelCount());
+//	TV tv1= new SmartTV();
+//	System.out.println(tv1.channelCount);
+//	tv1.play();
+//	System.out.println(tv1.getChannelCount());
+	int a=5;
+	int b=a;
+	a=10;
+	System.out.println(b);
+	
+	String c="Harmony";
+	String d=c;
+	c="School";
+	System.out.println(d);
+	
+			
+
 }
 }
